@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+⇒	The main objective was to forecast weekly sales for each department in 45 Walmart stores located in different regions and also to carry out statistical testing and validation of the models
 
-You can use the [editor on GitHub](https://github.com/Mounaki/Walmart-Sales-Prediction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+⇒	This project features a exploratory analysis and my predictive model was primarily based on linear regression
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+⇒	Predict which departments are affected with the holiday markdown events and the extent of impact.
 
-### Markdown
+⇒	We would also like to create a linear model to find a specific value for Weekly Sales that we want to predict. This line of best fit is intended to approximate further data points based on the line that we find in our training data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+⇒	Perform dimensionality reduction to improve prediction error by shrinkage in order to reduce overfitting.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mounaki/Walmart-Sales-Prediction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
