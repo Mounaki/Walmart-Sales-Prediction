@@ -1,3 +1,6 @@
+Walmart Sales Prediction
+
+
 ⇒	The main objective was to forecast weekly sales for each department in 45 Walmart stores located in different regions and also to carry out statistical testing and validation of the models
 
 ⇒	This project features a exploratory analysis and my predictive model was primarily based on linear regression
